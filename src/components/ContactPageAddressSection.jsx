@@ -40,10 +40,7 @@ const ContactPageAddressSection = () => {
               </div>
               <div className="flex-grow">
                 <h2 className="text-navy font-bigB text-lg">Call us</h2>
-                <p className="text-gray-500 text-sm grid">
-                  <span>+254-142-296-980</span>
-                  <span>+254-737-664-011</span>
-                </p>
+                <p className="text-gray-500 text-sm">+254-142-296-980</p>
               </div>
             </div>
           </div>
